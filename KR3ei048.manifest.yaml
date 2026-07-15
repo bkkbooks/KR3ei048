@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR3ei048/v1
 canonical_location: https://kanripo.org/bkk/KR3ei048/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:80d2d927b8deb12efb4a2db45a88623d21d8eb0caa5df4e1fce34edd8ec300b3
 metadata:
   title: 經效產寶
   identifiers:
@@ -21,4 +21,4 @@ assets:
     filename: KR3ei048_001.yaml
     hash: sha256:900b1e9dbee176cf3e82699ed8704e538bbe6c4849c76c31d239a336821cc819
 table_of_contents: []
-hash: sha256:b81dcbc6233da87aa23287639aefe7fdb7cbda58fc97f65c45161e725839c42e
+hash: sha256:20f3af39d3244390632fb067b4de17ecc0068b3afc86902d7432ff0701e0f922
